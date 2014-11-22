@@ -1,12 +1,13 @@
 # Site settings
-title: Pienisieni
+title: Pienisieni Space
 email: pienisieni@unknown.com
 description: > # this means to ignore newlines until "baseurl:"
-A small mushroom with big ideas.
+  A small mushroom with big ideas..
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pienisieni.github.io" # the base hostname & protocol for your site
 twitter_username: 
-github_username: pienisieni
+github_username:  pienisieni
 
 # Build settings
 markdown: kramdown
+
