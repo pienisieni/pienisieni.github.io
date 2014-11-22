@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello people. I'm currently staying at the hot and, just nice San Diego, California. If feeling lonely, send my snail mail at:
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+4379 30th St #4
+San Diego, CA 92104
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If emergency, give me a call. But it might not be any easier at:
+
++16192804020
+
+See you at my space!
+
+David Manly
