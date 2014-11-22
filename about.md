@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello people. I'm currently staying at the hot and, just nice San Diego, California. If feeling lonely, send my snail mail at:
+Hello people. I'm currently staying at the hot and, just nice San Diego, California. If feeling lonely, send me snail mail at:
 
 4379 30th St #4
 San Diego, CA 92104
