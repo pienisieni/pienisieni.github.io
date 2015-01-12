@@ -14,6 +14,6 @@ Knowledge is power, share the knowlege!
 
 Thanks,
 
-Pieni Sieni
+David Manly "Pieni Sieni".
 
 [itunes]:      http://www.elftronix.com/easy-method-make-us-itunes-purchase-from-any-country/
