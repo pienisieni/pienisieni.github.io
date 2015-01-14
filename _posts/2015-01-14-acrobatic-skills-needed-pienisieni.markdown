@@ -16,12 +16,7 @@ Don't belive me. Go and see for yourself!
 
 Chaoyang Theatre
 
-36 North East Third Ring Road
-
-Chaoyang District, Beijing
-
-China
-
+36 North East Third Ring Road, Chaoyang District, Beijing, China
 
 Web: http://www.chaoyangacrobaticshow.com
 
