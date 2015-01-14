@@ -15,12 +15,18 @@ When you go to Beijing, you kind of just have to accept that fact China needs ac
 Don't belive me. Go and see for yourself!
 
 Chaoyang Theatre
+
 36 North East Third Ring Road
+
 Chaoyang District, Beijing
+
 China
 
+
 Web: http://www.chaoyangacrobaticshow.com
+
 Phone: (+86) 18612359093
+
 E-mail: tickets (at-sign) chaoyangacrobaticshow.com
 
 Enjoy,
