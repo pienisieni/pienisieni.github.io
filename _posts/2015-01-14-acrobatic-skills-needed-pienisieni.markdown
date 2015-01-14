@@ -19,10 +19,11 @@ Chaoyang Theatre
 Chaoyang District, Beijing
 China
 
+Web: http://www.chaoyangacrobaticshow.com
 Phone: (+86) 18612359093
 E-mail: tickets (at-sign) chaoyangacrobaticshow.com
 
 Enjoy,
 David Manly, //Pienisieni
 
-[iTunes purchase outside US][itunes]
+[acrobatics]:http://www.chaoyangacrobaticshow.com
